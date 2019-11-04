@@ -1,0 +1,11 @@
+{
+	"name"		:"leo",
+	"folder"	:"leo",
+	"author"	:"MMB",
+	"template"	:{
+					"Default Page"		: "page",
+                    "Side Bar Page"		: "sidebar",
+					"Full Page"			: "fullpage",
+					"Backend Template"	: "backend"
+				}
+}
